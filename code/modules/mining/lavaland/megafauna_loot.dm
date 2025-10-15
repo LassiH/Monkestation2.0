@@ -509,7 +509,7 @@
 	righthand_file = 'icons/mob/inhands/weapons/staves_righthand.dmi'
 	icon = 'icons/obj/weapons/guns/magic.dmi'
 	slot_flags = ITEM_SLOT_BACK
-	w_class = WEIGHT_CLASS_NORMAL
+	w_class = WEIGHT_CLASS_BULKY
 	force = 18
 	damtype = BURN
 	resistance_flags = LAVA_PROOF | FIRE_PROOF | ACID_PROOF
